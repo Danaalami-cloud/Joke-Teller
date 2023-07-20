@@ -48,7 +48,9 @@ Running seeders/seed.js is optional to have a prepopulated database.
 </p>
 
 
-## Usage
+## Live Site
+https://danaalami-cloud.github.io/Joke-Teller/
+
 
 ## Credits
 
